@@ -1,0 +1,30 @@
+.series{
+    width: 700px;
+    margin: 50px auto;
+    background-color: rgba(240, 248, 255, 0.36);
+    padding: 20px;
+}
+.img img{
+    width: 400px;
+    float: left;
+    margin-right: 15px;
+}
+.img p{
+    text-align: justify;
+}
+h1{ 
+    text-align: center;
+}
+body{
+    background-image: url("https://www.nationalforests.org/assets/blog/_1600x1600_fit_center-center_80_none/Cache_La_Poudre_river_in_autumn.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.menu a{
+    font-size: 24px;
+    padding: 5px;
+}
+.menu a:hover{
+    color: red;
+ }
